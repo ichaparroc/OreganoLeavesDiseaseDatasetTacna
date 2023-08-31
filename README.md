@@ -11,7 +11,7 @@ Under review
 
 ## Authors:
 - Israel N. Chaparro-Cruz (ichaparroc@unjbg.edu.pe)
-- Alejandro D. Yanapa-Chicalla (@unjbg.edu.pe)
+- Alejandro D. Yanapa-Chicalla (alejandroyc@unjbg.edu.pe)
 - Erbert F. Osco-Mamani (eosco@unjbg.edu.pe)
 
 ## Files:
